@@ -68,7 +68,7 @@ We compared both unsupervised and supervised learning approaches for network int
 ![Model Comparison](images/model_comparison.png)
 
 ### Feature Importance
-![Important Features](images/Important Features.png)
+![feature_importance](images/feature_importance.png)
 
 The project includes:
 - Model comparison graphs
