@@ -1,5 +1,12 @@
 # AI-Driven Network Anomaly Detection using Machine Learning
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![XGBoost](https://img.shields.io/badge/XGBoost-Classifier-green)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Network%20Security-red)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-yellow)
+![Dataset](https://img.shields.io/badge/Dataset-UNSW--NB15-purple)
+
 ## 📌 Project Overview
 This project focuses on detecting and classifying network attacks using Machine Learning techniques on the UNSW-NB15 dataset.
 
